@@ -7,3 +7,4 @@ other trial to see how descktop app and web are connected.
 # Ok, I am currently connecting from Rstudio to Github, using Git.
 # So this is a test to see if modification of this file will updated the stuff in Github and keep track
 # f the changes in Git-Rstudio
+# A bit more
