@@ -1,6 +1,6 @@
 # MSBM
-# The code here implements a size-based ecological model and calibrate.
-# The code has been developed by Blanchard et al 2014 to model marine ecosystems that are subject to fishing or not.
-# The simulation part could be also be run in MIZER (https://github.com/drfinlayscott/mizer)        October-04-2017
+# The code here implements a multispecies size-spectrum model (MSSM) for the Chilean Central South Marine Ecosystem (CCSME).
+# The code has been developed based on the work of Blanchard et al (2014) 
+# The model can be also calibrate 
 # ------------------------------------------------------------------------------------------------------------------
 
